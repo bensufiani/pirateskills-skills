@@ -1,0 +1,10 @@
+{
+  "name": "pirateskills",
+  "version": "1.0.0",
+  "description": "Pirate Skills in your agent: search the growth marketing and vibe coding codices, find and join free events, see the passes – and, once you sign in, register, book and check your wallet.",
+  "author": { "name": "Pirate Skills GmbH", "email": "contact@pirateskills.com", "url": "https://pirateskills.com" },
+  "homepage": "https://pirateskills.com/agents",
+  "repository": "https://github.com/bensufiani/pirateskills-skills",
+  "license": "MIT",
+  "keywords": ["growth-marketing", "vibe-coding", "events", "mcp", "pirateskills"]
+}

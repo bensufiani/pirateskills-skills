@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "pirateskills": { "type": "http", "url": "https://pirateskills.com/mcp" }
+  }
+}

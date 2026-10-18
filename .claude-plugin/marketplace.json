@@ -1,0 +1,15 @@
+{
+  "name": "pirateskills",
+  "description": "Pirate Skills for Claude Code: the skill and the MCP server for growth marketing, vibe coding and Pirate Skills events.",
+  "owner": {
+    "name": "Pirate Skills GmbH",
+    "email": "contact@pirateskills.com"
+  },
+  "plugins": [
+    {
+      "name": "pirateskills",
+      "source": "./",
+      "description": "Pirate Skills in your agent: the skill and the MCP server."
+    }
+  ]
+}
